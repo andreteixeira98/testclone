@@ -1,6 +1,5 @@
 package View;
-//vskalçdkjsallsafd
-
+//mslkjsalk
 import java.util.Scanner;
 
 import Controller.ComputadorController;
